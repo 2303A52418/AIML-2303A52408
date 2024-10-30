@@ -6,6 +6,7 @@
 [lab-5]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/aiml_lab_5.ipynb
 [lab-6]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/AIML_LAB6.ipynb
 [lab-7]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/Copy_of_AIML_LAB7.ipynb
+[lab-10]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/README.md
 
 
 
